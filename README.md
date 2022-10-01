@@ -12,8 +12,8 @@ These techniques are already used in the existing World Bank paper. In the World
 So, in this project I propose a new technique for feature selection using LSTM. The problem of correlating features getting selected will be eliminated using LSTM, as it is not an econometric method, rather it is based on the Recurrent Neural Networks.
 
 Gained exposure to different Machine Learning techniques like Lasso regression, Iceberg Lasso, LSTM,
-etc. The models built in Scikit-Learn and trained on the World Bank dataset on the Preferential Trade
-Agreements 1964-2016.
+etc. The models built in Scikit-Learn, TensorFlow and trained on the World Bank dataset on the Preferential Trade
+Agreements 1990-2017.
 
 
 I am currently working on this research project.
